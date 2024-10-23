@@ -18,4 +18,3 @@ End Game Detection: The game automatically detects when no more moves are possib
 
 Border Persistence: Occasionally, the highlight border may persist after a match is made.
 Game Over Detection: In some rare cases, the game may not correctly detect the game over state.
-Error Running JAR File: Currently JAR File is not running outside IntelJ. 
